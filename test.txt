@@ -1,0 +1,20 @@
+6  cd ansible-demo/
+    7  ls -ltr
+    8  pwd
+    9  ls -ltr
+   10  pwd
+   11  cd ../
+   12  ls -ltr
+   13  mkdr gitdemo
+   14  mkdir -p gitdemo
+   15  ls -ltr
+   16  pwd
+   17  cd gitdemo
+   18  ll
+   19  cd ..
+   20  ll
+   21  cd gitdemo
+   22  touch test.txt
+   23  pwd
+   24  ls -ltr
+   2
